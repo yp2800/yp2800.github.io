@@ -1,9 +1,9 @@
 ---
 layout: post
+category: shell 
 title: "快捷保存别的wgetpaste贴的内容"
 description: ""
 analytics : false
-category: shell 
 tags: []
 ---
 {% include JB/setup %}
