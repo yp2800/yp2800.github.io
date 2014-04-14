@@ -2,7 +2,8 @@
 layout: post
 title: "快捷保存别的wgetpaste贴的内容"
 description: ""
-category: 
+analytics : false
+category: shell 
 tags: []
 ---
 {% include JB/setup %}
